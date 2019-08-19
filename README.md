@@ -1,2 +1,1 @@
-hello myname is superliang
-张必成，你好。
+hello my name is superliang, nice to meet u.
